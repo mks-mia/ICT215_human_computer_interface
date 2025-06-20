@@ -34,7 +34,7 @@ As the interface lead for **Web and WatchOS**, I contributed:
 
 ## Project Link
 
-- [📄 Download Full Design PDF](./HomeBites-Designs.pdf) 
+- [📄 Download Full Design PDF](HomeBites(HCI_final_project).pdf) 
 
 ## Conclusion
 

@@ -30,7 +30,7 @@ As the interface lead for **Web and WatchOS**, I contributed:
 
 - Figma (UI design & wireframing)  
 - Pen & Paper (early sketches)  
-- Google Slides / Docs (collaboration & documentation)   
+- Google Docs (collaboration & documentation)   
 
 ## Project Link
 
